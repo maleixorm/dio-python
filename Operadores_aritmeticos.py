@@ -7,3 +7,22 @@ print(10 % 3) # Resto da Divisão
 print(2 ** 3) # Exponenciação
 
 print(10-5*2)
+
+produto_1 = 20
+produto_2 = 10
+
+print(produto_1 + produto_2)
+print(produto_1 + produto_2)
+print(produto_1 / produto_2)
+print(produto_1 // produto_2)
+print(produto_1 * produto_2)
+print(produto_1 ** produto_2)
+print(produto_1 % produto_2)
+
+x = 10 + 5 * 4
+
+y = (10 + 5) * 4
+print(y)
+
+z = 10 * 5 / 4
+print(z)
